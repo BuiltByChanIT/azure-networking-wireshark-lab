@@ -52,7 +52,7 @@ Packet analysis performed using **Wireshark** installed on `client-01`.
 
 Wireshark was used to capture live network traffic from the Azure virtual network.
 
-![Live Capture](screenshots/01-wireshark-live-capture.png)
+![Live Capture](screenshots/01-wireshark-live-capture.png.png)
 
 ---
 
