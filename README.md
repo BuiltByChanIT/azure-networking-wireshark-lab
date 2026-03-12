@@ -60,7 +60,7 @@ Wireshark was used to capture live network traffic from the Azure virtual networ
 
 Connectivity between virtual machines was tested using ping, capturing ICMP echo request and reply packets.
 
-![ICMP Capture](screenshots/02-icmp-ping-capture.png)
+![ICMP Capture](screenshots/02-icmp-ping-capture.png.png)
 
 ---
 
@@ -68,7 +68,7 @@ Connectivity between virtual machines was tested using ping, capturing ICMP echo
 
 DNS traffic was captured while resolving domain names to IP addresses.
 
-![DNS Capture](screenshots/03-dns-query-capture.png)
+![DNS Capture](screenshots/03-dns-query-capture.png.png)
 
 ---
 
@@ -82,7 +82,7 @@ Handshake sequence:
 2. SYN-ACK
 3. ACK
 
-![TCP Handshake](screenshots/04-tcp-handshake.png)
+![TCP Handshake](screenshots/04-tcp-handshake.png.png)
 
 ---
 
@@ -90,7 +90,7 @@ Handshake sequence:
 
 Unencrypted HTTP traffic was captured to analyze client-server communication.
 
-![HTTP Capture](screenshots/05-http-traffic-capture.png)
+![HTTP Capture](screenshots/05-http-traffic-capture.png.png)
 
 ---
 
@@ -98,7 +98,7 @@ Unencrypted HTTP traffic was captured to analyze client-server communication.
 
 Remote Desktop Protocol traffic was captured when connecting to the virtual machine.
 
-![RDP Capture](screenshots/06-rdp-traffic.png)
+![RDP Capture](screenshots/06-rdp-traffic.png.png)
 
 ---
 
